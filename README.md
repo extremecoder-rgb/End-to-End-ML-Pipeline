@@ -119,4 +119,4 @@ This project demonstrates a robust, modular, and reproducible end-to-end machine
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the GPL-3.0 License. 
